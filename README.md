@@ -8,5 +8,5 @@ and feel of that template for this website.
 
 ## License
 
-The source code (but not the content!) of this website is licensed under the Apache 
+The content of this website remains all rights reserved, while the source code itself is licensed under the Apache 
 License 2.0. Please see the LICENSE.md file for more information.
