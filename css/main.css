@@ -11,6 +11,7 @@ main {
     font-family: Helvetica, sans-serif;
     padding: 20px 40px 40px;
     background-color: #ffffff;
+    border-top: 1px solid #dddddd;
     border-left: 1px solid #dddddd;
     border-right: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd
