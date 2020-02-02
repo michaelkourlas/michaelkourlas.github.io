@@ -30,42 +30,6 @@ header {
     padding-bottom: 20px;
 }
 
-.tagline {
-    font-family: Helvetica, sans-serif;
-    font-size: 1.1em;
-    color: #888888
-}
-
-.main-header {
-    font-size: 2.5em;
-    padding-bottom: 10px;
-}
-
-.nav-tabs {
-    background: #f9f9f0;
-    font-family: Helvetica, sans-serif;
-    font-size: 1.2em;
-}
-
-.nav-tabs > li > a {
-    color: #444444
-}
-
-.nav-tabs > li:not(.active) > a:visited {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-}
-
-.nav-tabs > li:not(.active) > a:hover {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-}
-
-.nav-tabs > li:not(.active) > a:active {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-}
-
 a {
     color: #005B49;
 }
@@ -76,15 +40,6 @@ a:hover {
 
 a:visited {
     color: #004336;
-}
-
-figcaption {
-    text-align: center;
-    padding-bottom: 20px;
-    font-family: Helvetica, sans-serif;
-    color: #888888;
-    font-style: italic;
-    font-size: 0.9em;
 }
 
 footer {
